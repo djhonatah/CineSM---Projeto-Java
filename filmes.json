@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Mario",
+    "ReleaseYear": 2018,
+    "SumOfRatings": 0.0,
+    "TotalRatings": 0,
+    "DurationInMinutes": 124
+  },
+  {
+    "Name": "Dogville",
+    "ReleaseYear": 2003,
+    "SumOfRatings": 0.0,
+    "TotalRatings": 0,
+    "DurationInMinutes": 178
+  },
+  {
+    "Name": "Avatar",
+    "ReleaseYear": 2009,
+    "SumOfRatings": 0.0,
+    "TotalRatings": 0,
+    "DurationInMinutes": 162
+  }
+]
